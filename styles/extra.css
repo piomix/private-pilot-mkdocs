@@ -1,0 +1,29 @@
+
+.md-typeset img.img-tiny {
+  max-width: 100px;
+  height: auto;
+}
+.md-typeset img.img-small {
+  max-width: 200px;
+  height: auto;
+}
+
+.md-typeset img.img-medium {
+  max-width: 400px;
+  height: auto;
+}
+
+.md-typeset img.img-medium-large {
+  max-width: 600px;
+  height: auto;
+}
+
+.md-typeset img.img-large {
+  max-width: 800px;
+  height: auto;
+}
+
+.md-typeset img.img-center {
+  display: block;
+  margin: 1rem auto;
+}
