@@ -1,0 +1,21 @@
+site_name: Private Pilot Ground School
+site_url: https://mydomain.org/private-pilot
+repo_url: https://github.com/piomix/private-pilot-mkdocs.git
+theme:
+  name: material
+  language: en
+
+nav: 
+  - Aerodynamics: 
+    - aerodynamics/the-four-forces.md
+    - aerodynamics/climb-and-descents.md
+    - aerodynamics/wing-things.md  
+  - Airplane Components:
+    - airplane components/airplane-components.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - styles/extra.css
