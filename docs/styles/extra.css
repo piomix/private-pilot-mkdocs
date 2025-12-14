@@ -36,6 +36,13 @@
   vertical-align: top;
 }
 
+.md-typeset img.img-inline-2 {
+  display: inline-block;
+  width: 48%;
+  margin-right: 1%;
+  vertical-align: top;
+}
+
 .md-typeset img.img-inline-3 {
   display: inline-block;
   width: 31%;

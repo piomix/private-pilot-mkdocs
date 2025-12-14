@@ -10,6 +10,8 @@ nav:
     - aerodynamics/the-four-forces.md
     - aerodynamics/climb-and-descents.md
     - aerodynamics/wing-things.md  
+    - aerodynamics/stalls.md
+    - aerodynamics/spins.md  
   - Airplane Components:
     - airplane components/airplane-components.md
 
