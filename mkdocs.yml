@@ -12,6 +12,11 @@ nav:
     - aerodynamics/wing-things.md  
     - aerodynamics/stalls.md
     - aerodynamics/spins.md  
+    - aerodynamics/parasite-drag.md  
+    - aerodynamics/induced-drag.md 
+    - aerodynamics/total-drag.md
+    - aerodynamics/ground-effect.md  
+    - aerodynamics/flaps.md  
   - Airplane Components:
     - airplane components/airplane-components.md
 

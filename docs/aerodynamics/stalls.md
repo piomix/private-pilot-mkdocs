@@ -104,7 +104,7 @@ In other words, ***when you feel an increase in G-force (load factor), the airpl
 The increase in stall speed with bank angle is as predictable as a politician’s addiction to podiums. A 60 degree bank increases stall speed by 40 percent. This is certainly nice information to know, but are you expected to carry a Cray supercomputer and punch in percentages prior to any turn? Of course not. What you need to have is a high index of suspicion. If the seat of your pants says you’re weighing in at a level that qualifies you for the main event on a heavyweight boxing card, you should think (quickly), about how the stall speed increases in a turn. For those of you frightened by higher math (adds, takeaways, times and goes-intos) there is an easier way to calculate this.
 
 
-![Image describing Stall Speed and Angle of Bank](../images/stall-speed-bank-angle.jpg "Stall speed and bank angle"){ .img-medium-large .img-center}
+![Image describing Stall Speed and Angle of Bank](../images/stall-speed-slider.gif "Stall speed and bank angle"){ .img-medium-large .img-center}
 
 
 Figure 33 is typical of the stall charts found in most owners’ manuals. It provides you with the stall speeds for specific angles-of-bank under variable flap conditions (we’ll discuss flaps in a bit). 
@@ -112,14 +112,12 @@ Figure 33 is typical of the stall charts found in most owners’ manuals. It pro
 
 ## POH Stall Speed Chart
 
-
 Most owners manuals contain Stall charts. They provide you with a stall speed with specific Angles of bank under variable flap conditions (We'll discuss flaps in a bit.) Avoiding stalls while in a steep bank with smaller, power-limited airplanes means you must be prepared to do two things. At the first sign of a stall, you must unload the wings by releasing back pressure on the elevator and simultaneously reducing the angle of bank. This decreases the load factor and reduces the stall speed. For example, assume that you’re in the traffic pattern and are making a turn onto final approach. Because of poor planning (it happens to everyone once in a while), you find yourself overshooting the runway centerline. Increasing the bank is a natural response to prevent overshooting, but it’s also a risky one. When the bank increases, the nose wants to lower or pitch down (I’ll talk about why this happens later). Pilots typically pull back on the elevator control to maintain altitude in response to a dropping nose. Pulling back on the elevator increases the angle of attack and slows the airspeed. Now the airplane is closer to its critical angle of attack at a lower airspeed. If the airplane was flying slow to begin with, the airplane may stall. What’s the solution? 
 
 ![Image describing Stall Speed Chart](../images/stall-speed-chart.jpg "Stall speed Chart"){ .img-medium-large .img-center}
 
 Whenever you are making a turn, especially when close to the ground, be especially sensitive to the amount of bank you use. *Be sensitive to the G-force you experience.* If you feel your apparent weight increasing, you now know your stall speed is also increasing. Your derriere becomes the ultimate stall sensing device (and to think you’ve been packing that thing around all these years and didn’t realize its usefulness). This is what is called, “flying by the seat of your pants.” If anyone accuses you of sitting down on the job, you just tell them you’re testing your stall detector.
 By the way, there is a time when we want our wings to stall before they experience too many Gs. The speed at which this occurs is called the ***design maneuvering speed.*** 
-
 
 ## T-Tail Airplanes
 
